@@ -1,0 +1,1 @@
+async function e(){throw Error(`static host`)}async function t(e){throw Error(`static host`)}export{e as fetchLeaderboard,t as submitScore};
